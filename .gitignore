@@ -1,2 +1,4 @@
 .env
-pastebin/ui/static/img
+
+# Ignore the img folder and its contents
+ui/static/img
